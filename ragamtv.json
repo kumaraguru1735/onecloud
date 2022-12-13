@@ -1,5 +1,5 @@
 {
-        "link":"http://bmlive.net:8000/karnan/ragamtv/bms.m3u8",
+        "link":"rtmp://bmlive.net:1935/karnan/ragamtv",
         "number":"+91 9442679006",
         "email":"kalanthardigital007@gmail.com",
         "location":"Thondi"
