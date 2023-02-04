@@ -1,7 +1,7 @@
 {
         "versionCode":"2",
         "channelName":"Sky TV",
-        "link":"https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
+        "link":"rtmp://1cloud.digital/skytv/skytv",
         "number":"+91 9790099418",
         "email":"skypluschannel@gmail.com",
         "location":"Tiruchengode"
