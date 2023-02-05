@@ -1,7 +1,7 @@
 {
         "versionCode":"1",
         "channelName":"OneCloud",
-        "link":"rtmp://1cloud.digital/onetv/onehollywood",
+        "link":"https://1cloud.digital/onetv/onemovies/1cloud.m3u8",
         "number":"+91 9876543210",
         "email":"onecloud@gmail.com",
         "location":"Salem"
