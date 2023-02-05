@@ -1,7 +1,7 @@
 {
         "versionCode":"1",
         "channelName":"OneCloud",
-        "rtmp://1cloud.digital/onetv/onemovies",
+        "link":"rtmp://1cloud.digital/onetv/onemovies",
         "number":"+91 9876543210",
         "email":"onecloud@gmail.com",
         "location":"Salem"
