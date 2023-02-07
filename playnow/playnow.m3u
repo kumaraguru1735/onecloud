@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CHANNEL 1" status="online",CHANNEL 1 (1080p) [24/7]
-https://1cloud.digital/samuthirapandi/ayyavaikundartv/1cloud.m3u8
+http://bmlive.net:8000/karnan/ammutv/bms.m3u8
 #EXTINF:-1 tvg-id="CHANNEL 2" status="online",CHANNEL 2 (1080p) [24/7]
-https://1cloud.digital/minnaltv/minnalhd/1cloud.m3u8
+http://bmlive.net:8000/karnan/karthimusic/bms.m3u8
 #EXTINF:-1 tvg-id="CHANNEL 3" status="online",CHANNEL 3 (1080p) [24/7]
-https://1cloud.digital/rasitv/rasimovies/1cloud.m3u8
+http://bmlive.net:8000/karnan/karthimovie/bms.m3u8
 #EXTINF:-1 tvg-id="CHANNEL 4" status="online",CHANNEL 4 (1080p) [24/7]
-https://1cloud.digital/rasitv/rasitv/1cloud.m3u8
+http://bmlive.net:8000/karnan/bharathiusilai/bms.m3u8
 #EXTINF:-1 tvg-id="CHANNEL 5" status="online",CHANNEL 5 (1080p) [24/7]
-https://1cloud.digital/karnan/ammutv/1cloud.m3u8
+http://bmlive.net:8000/karnan/ssmhd/bms.m3u8
 #EXTINF:-1 tvg-id="CHANNEL 6" status="online",CHANNEL 6 (1080p) [24/7]
-https://1cloud.digital/vision/visionhd/1cloud.m3u8
+http://bmlive.net:8000/karnan/mithrantv/bms.m3u8
 #EXTINF:-1 tvg-id="CHANNEL 7" status="online",CHANNEL 7 (1080p) [24/7]
-https://1cloud.digital/sivatv/sivatv/1cloud.m3u8
+http://bmlive.net:8000/karnan/rojatv/bms.m3u8
 #EXTINF:-1 tvg-id="CHANNEL 8" status="online",CHANNEL 8 (1080p) [24/7]
-https://1cloud.digital/karnan/bharathitv/1cloud.m3u8
+http://bmlive.net:8000/karnan/ambika/bms.m3u8
 #EXTINF:-1 tvg-id="CHANNEL 9" status="online",CHANNEL 9 (1080p) [24/7]
-https://1cloud.digital/janagai/janagaihd/1cloud.m3u8
+http://bmlive.net:8000/karnan/ragamtv/bms.m3u8
