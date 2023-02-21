@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="3TamilTV.in" tvg-logo="https://micoder-dev.github.io/files/svec/slider1.jpeg" status="online",3 Tamil TV (720p) [Not 24/7]
-http://1cloud.digital/sivatv/sivatv/1cloud.m3u8
+https://1cloud.digital/sivatv/sivatv/1cloud.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in" status="online",7S Music (576p) [Not 24/7]
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-id="9XM.in" status="online",9XM (480p)
