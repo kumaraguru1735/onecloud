@@ -1,8 +1,8 @@
 {
         "versionCode":"2",
         "channelName":"Sky TV",
-        "link":"rtmp://1cloud.digital/onetv/onemovies",
-        "link2":"http://1cloud.digital/skytv/skytv/1cloud.m3u8",
+        "link2":"rtmp://1cloud.digital/onetv/onemovies",
+        "link":"http://1cloud.digital/onetv/onemovies.flv",
         "number":"+91 9790099418",
         "email":"skypluschannel@gmail.com",
         "location":"Tiruchengode"
