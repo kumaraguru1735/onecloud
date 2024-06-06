@@ -1,6 +1,6 @@
 {
         "channelName":"AS MEDIA",
-        "link":"https://ipcloud.live/asmedia/asmedia/index.m3u8",
+        "link":"rtmp://ipcloud.live/asmedia/asmedia",
         "number":"+91 9677652772",
         "email":"asmediatv@gmail.com",
         "location":"Tiruvannamalai"
