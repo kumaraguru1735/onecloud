@@ -1,7 +1,7 @@
 {
         "versionCode":"1",
         "channelName":"SIVA TV",
-        "link":"https://xstream.ipcloud.live/sivatv/sivatv/index.m3u8",
+        "link":"http://xstream.ipcloud.live:8080/sivatv/sivatv/index.m3u8",
         "number":"+91 6369169277",
         "email":"sivatvgkt@gmail.com",
         "location":"Gandarvakkottai"
