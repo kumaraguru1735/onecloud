@@ -17,7 +17,7 @@ https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/i
 https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_27.m3u8
 #EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=749984,CODECS="avc1.64001F",RESOLUTION=720x576,URI="https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_26.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Hindi",LANGUAGE="hin",DEFAULT=NO,AUTOSELECT=YES,URI="https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_9_0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Malayalam",LANGUAGE="mal",DEFAULT=YES,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_10_0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Tamil",LANGUAGE="tam",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_11_0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Malayalam",LANGUAGE="mal",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_10_0.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Tamil",LANGUAGE="tam",DEFAULT=YES,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_11_0.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Telugu",LANGUAGE="tel",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_12_0.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Kannada",LANGUAGE="kan",DEFAULT=NO,AUTOSELECT=NO,URI="https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_13_0.m3u8"
